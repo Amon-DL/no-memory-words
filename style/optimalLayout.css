@@ -1,0 +1,18 @@
+#pagination-container {
+  margin-bottom: 15px;
+}
+#pagination-container button {
+  border: 1px solid #000000;
+}
+#pagination-container #page-num {
+  height: 26px;
+  width: 100px;
+  font-size: 10px;
+  line-height: 26px;
+  text-align: center;
+  border-radius: 5px;
+  outline: none;
+}
+#pagination-container input {
+  outline: none;
+}

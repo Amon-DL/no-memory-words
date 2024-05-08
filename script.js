@@ -100,24 +100,45 @@ document.addEventListener('DOMContentLoaded', function () {
       }
     }
   });
-});
+  function paginate(arr) {
+    const result = [];
+    let page = [];
 
-function paginate(arr) {
-  const result = [];
-  let page = [];
+    // 使用 forEach 遍历数组
+    arr.forEach((item, index) => {
+      // 将当前元素添加到当前页面中
+      if (!item.nextPage) page.push(item);
 
-  // 使用 forEach 遍历数组
-  arr.forEach((item, index) => {
-    // 将当前元素添加到当前页面中
-    if (!item.nextPage) page.push(item);
+      // 如果当前元素的 nextPage 为 true 或者已到数组末尾
+      if (item.nextPage || index === arr.length - 1) {
+        // 将当前页面添加到结果中，并重置 page 为新的空数组
+        result.push(page);
+        page = [];
+      }
+    });
 
-    // 如果当前元素的 nextPage 为 true 或者已到数组末尾
-    if (item.nextPage || index === arr.length - 1) {
-      // 将当前页面添加到结果中，并重置 page 为新的空数组
-      result.push(page);
-      page = [];
+    return result;
+  }
+
+  function jump() {
+    const input = document.getElementById('page-num'); // 获取输入框元素
+    const page = +input.value; // 获取输入框的值并转换为数字
+    input.value = ''; // 清空输入框的值
+    if (page > 0 && page <= totalPage) {
+      // 如果输入的页数大于0且小于等于总页数
+      currentPage = page; // 设置当前页数
+      localStorage.setItem('currentPage', currentPage.toString())    // 将当前页数保存到本地存储中
+      addNewWords(currentPage); // 添加当前页的单词
+      updatePageControls(); // 更新分页控件
+    }
+  }
+  // 跳转到指定页
+  document.getElementById('jump').addEventListener('click', jump);
+  document.getElementById('page-num').addEventListener('keyup', function (e) {
+    if (e.key === 'Enter') {
+      jump();
     }
   });
 
-  return result;
-}
+});
+
