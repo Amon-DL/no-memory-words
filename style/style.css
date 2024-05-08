@@ -1,0 +1,120 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: linear-gradient(to right,
+      rgb(113, 65, 168),
+      rgba(44, 114, 251, 1));
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  width: 1228px;
+  margin: 0 auto;
+  /* background-color: #f3f5f7; */
+}
+
+ul {
+  list-style: none;
+}
+
+.words {
+  float: left;
+  margin: 10px 10px;
+  width: 539px;
+  height: 190px;
+  border: 1px solid #697077;
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+.memory-method span {
+  display: inline-block;
+  width: 32px;
+  height: 22px;
+  margin-right: 16px;
+  border: 1px solid #763737;
+  border-radius: 5px;
+  line-height: 22px;
+  font-size: 10px;
+  text-align: center;
+  /* cursor: pointer; */
+}
+
+.memory-method p {
+  display: inline-block;
+  font-size: 16px;
+}
+
+.memory-method ul {
+  margin: 16px 16px;
+}
+
+.memory-method ul li {
+  display: flex;
+  justify-content: left;
+  margin-top: 8px;
+}
+
+.memory-method ul li span {
+  /* 当空间不足时span不会被压缩 */
+  flex-shrink: 0;
+}
+
+.words .word {
+  margin-left: 24px;
+  margin-top: 13px;
+}
+
+h1 {
+  text-align: center;
+  width: 30px;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(255, 255, 255);
+  /* text-decoration: underline; */
+}
+
+.jumple {
+  /* display: flex; */
+  position: fixed;
+  width: 30px;
+  height: 100px;
+  right: 0;
+  margin-left: auto;
+
+}
+
+#pagination-container {
+  display: flex;
+  justify-content: center;
+  width: 1228px;
+  margin: 15px auto;
+
+}
+
+#pagination-container button {
+  width: 50px;
+  height: 26px;
+  line-height: 26px;
+  border-radius: 5px;
+}
+
+.word-list .word a {
+  color: #000;
+  text-decoration: none;
+}
+
+.word-list .word a:hover {
+  color: cornflowerblue;
+  text-decoration: underline;
+}

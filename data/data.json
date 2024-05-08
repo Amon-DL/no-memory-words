@@ -1,0 +1,922 @@
+[
+ {
+  "word": "anniversary",
+  "memoryTechnique": "",
+  "meaning": "周年纪念日",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=anniversary&lang=en2zh"
+ },
+ {
+  "word": "annual",
+  "memoryTechnique": "",
+  "meaning": "年度的，每年的",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=annual&lang=en2zh"
+ },
+ {
+  "word": "dissatisfaction",
+  "memoryTechnique": "satisfy = sa-tis-fy",
+  "meaning": "不满意",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=dissatisfaction&lang=en2zh"
+ },
+ {
+  "word": "isolated",
+  "memoryTechnique": "isolated = i-so-late-d，I-so-late-d 我超累的",
+  "meaning": "孤独的",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=isolated&lang=en2zh"
+ },
+ {
+  "word": "isolate",
+  "memoryTechnique": "",
+  "meaning": "动词",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=isolate&lang=en2zh"
+ },
+ {
+  "word": "tuition",
+  "memoryTechnique": "tu-i-tion，图一生...什么值得咱们图一生？",
+  "meaning": "学历",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=tuition&lang=en2zh"
+ },
+ {
+  "word": "royal",
+  "memoryTechnique": "ro-yal，肉哟!",
+  "meaning": "皇家的",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=royal&lang=en2zh"
+ },
+ {
+  "word": "thorough",
+  "memoryTechnique": "tho-rough 馊咯！",
+  "meaning": "彻底的",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=thorough&lang=en2zh"
+ },
+ {
+  "word": "sophisticated",
+  "memoryTechnique": "soph-ist-cata-ted，soph 有智慧的人",
+  "meaning": "老练的，世故的",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=sophisticated&lang=en2zh"
+ },
+ {
+  "word": "sophomore",
+  "memoryTechnique": "soph-o-more 约等于 suffer more",
+  "meaning": "大二",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=sophomore&lang=en2zh"
+ },
+ {
+  "word": "freshman",
+  "memoryTechnique": "",
+  "meaning": "大一",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=freshman&lang=en2zh"
+ },
+ {
+  "word": "----------------",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "#"
+ },
+ {
+  "word": "abandon",
+  "memoryTechnique": "a-ban-don",
+  "meaning": "n. 放任，纵情",
+  "exampleSentence": "People are rocking with abandon.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=abandon&lang=en2zh"
+ },
+ {
+  "word": "ban",
+  "memoryTechnique": "",
+  "meaning": "禁止",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=ban&lang=en2zh"
+ },
+ {
+  "word": "super scholar",
+  "memoryTechnique": "",
+  "meaning": "学霸",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=super scholar&lang=en2zh"
+ },
+ {
+  "word": "rich redneck",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "We will never abandon our principles!",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=rich redneck&lang=en2zh"
+ },
+ {
+  "word": "-----------------",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=-----------------&lang=en2zh"
+ },
+ {
+  "word": "access",
+  "memoryTechnique": "a-cc-e-ss cc，ss 特务",
+  "meaning": "接近，入口，打开（文件）",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=access&lang=en2zh"
+ },
+ {
+  "word": "accomplish",
+  "memoryTechnique": "",
+  "meaning": "完成",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=accomplish&lang=en2zh"
+ },
+ {
+  "word": "complete",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=complete&lang=en2zh"
+ },
+ {
+  "word": "achieve",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=achieve&lang=en2zh"
+ },
+ {
+  "word": "achievement",
+  "memoryTechnique": "",
+  "meaning": "成就",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=achievement&lang=en2zh"
+ },
+ {
+  "word": "----------------",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "#"
+ },
+ {
+  "word": "astonished",
+  "memoryTechnique": "a-ston-ished",
+  "meaning": "惊讶的，惊异的",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=astonished&lang=en2zh"
+ },
+ {
+  "word": "astonishment",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=astonishment&lang=en2zh"
+ },
+ {
+  "word": "amaze",
+  "memoryTechnique": "be amazed at",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=amaze&lang=en2zh"
+ },
+ {
+  "word": "surprise",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=surprise&lang=en2zh"
+ },
+ {
+  "word": "abroad",
+  "memoryTechnique": "a-broad",
+  "meaning": "在国外，到处，广泛流行",
+  "exampleSentence": "go abroad 出国",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=abroad&lang=en2zh"
+ },
+ {
+  "word": "broad",
+  "memoryTechnique": "broad = b-road",
+  "meaning": "宽阔的，广泛的",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=broad&lang=en2zh"
+ },
+ {
+  "word": "broaden",
+  "memoryTechnique": "broad-en",
+  "meaning": "扩大，使广阔",
+  "exampleSentence": "broaden our horizon 拓宽视野",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=broaden&lang=en2zh"
+ },
+ {
+  "word": "broadcast",
+  "memoryTechnique": "broad-cast cast-扔(漂流瓶)",
+  "meaning": "v. 散播，传播 n. 广播节目",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=broadcast&lang=en2zh"
+ },
+ {
+  "word": "wide",
+  "memoryTechnique": "www = World Wide Web",
+  "meaning": "adj.",
+  "exampleSentence": "To give customers a wider range of choices...",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=wide&lang=en2zh"
+ },
+ {
+  "word": "width",
+  "memoryTechnique": "",
+  "meaning": "n.",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=width&lang=en2zh"
+ },
+ {
+  "word": "widely",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "It's widely known that...众所周知",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=widely&lang=en2zh"
+ },
+ {
+  "word": "----------------",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "#"
+ },
+ {
+  "word": "adopt",
+  "memoryTechnique": "",
+  "meaning": "v. 领养",
+  "exampleSentence": "He is their adopted son.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=adopt&lang=en2zh"
+ },
+ {
+  "word": "adopt",
+  "memoryTechnique": "",
+  "meaning": "v. 采纳",
+  "exampleSentence": "Adopt a flexible approach(策略) to solving the problems.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=adopt&lang=en2zh"
+ },
+ {
+  "word": "adapt",
+  "memoryTechnique": "adapt to the climate",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=adapt&lang=en2zh"
+ },
+ {
+  "word": "adapt",
+  "memoryTechnique": "adapt for",
+  "meaning": "改编",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=adapt&lang=en2zh"
+ },
+ {
+  "word": "----------------",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "#"
+ },
+ {
+  "word": "alter convert transform change",
+  "memoryTechnique": "alter 表示轻微的，细节的改变",
+  "meaning": "",
+  "exampleSentence": "convert 全部或局部的改变，大变！",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=alter convert transform change&lang=en2zh"
+ },
+ {
+  "word": "alter",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "There is something wrong with my layout，I have alter it.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=alter&lang=en2zh"
+ },
+ {
+  "word": "convert",
+  "memoryTechnique": "convert water into steam",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=convert&lang=en2zh"
+ },
+ {
+  "word": "transform",
+  "memoryTechnique": "fat to fit transformation",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=transform&lang=en2zh"
+ },
+ {
+  "word": "change",
+  "memoryTechnique": "keep the change 不用找了！",
+  "meaning": "n. 找回的零钱",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=change&lang=en2zh"
+ },
+ {
+  "word": "charge",
+  "memoryTechnique": "charge it to us!",
+  "meaning": "收费，付费",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=charge&lang=en2zh"
+ },
+ {
+  "word": "charge",
+  "memoryTechnique": "in charge of",
+  "meaning": "v. 掌管，管理",
+  "exampleSentence": "No one is in charge of happiness except you!",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=charge&lang=en2zh"
+ },
+ {
+  "word": "charge",
+  "memoryTechnique": "",
+  "meaning": "v. 充电",
+  "exampleSentence": "charge battery to full charge.",
+  "null": [
+   ""
+  ],
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=charge&lang=en2zh"
+ },
+ {
+  "word": "discharge",
+  "memoryTechnique": "discharge it from the battery!",
+  "meaning": "放电，放电池",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=discharge&lang=en2zh"
+ },
+ {
+  "word": "----------------",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "#"
+ },
+ {
+  "word": "compare",
+  "memoryTechnique": "compare A to B => A ≈ B",
+  "meaning": "",
+  "exampleSentence": "A teacher's work is often compared to a candle.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=compare&lang=en2zh"
+ },
+ {
+  "word": "compare",
+  "memoryTechnique": "compare A with B",
+  "meaning": "",
+  "exampleSentence": "Never compare your girlfriend with your ex. ",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=compare&lang=en2zh"
+ },
+ {
+  "word": "compare",
+  "memoryTechnique": "compare A with B",
+  "meaning": "",
+  "exampleSentence": "..reduced the cost of producing a book compared with old fashioned one.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=compare&lang=en2zh"
+ },
+ {
+  "word": "comparison",
+  "memoryTechnique": "make a comparison",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=comparison&lang=en2zh"
+ },
+ {
+  "word": "oblige",
+  "memoryTechnique": "be obliged to do sth",
+  "meaning": "v. 迫使",
+  "exampleSentence": "Poverty obliged her to live a hard life.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=oblige&lang=en2zh"
+ },
+ {
+  "word": "oblige",
+  "memoryTechnique": "would be obliged",
+  "meaning": "不胜感激",
+  "exampleSentence": "I would be obliged if you could to help me pass it.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=oblige&lang=en2zh"
+ },
+ {
+  "word": "----------------",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "#"
+ },
+ {
+  "word": "damage",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=damage&lang=en2zh"
+ },
+ {
+  "word": "ruin",
+  "memoryTechnique": "",
+  "meaning": "（抽象的）长期损坏，不可修复",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=ruin&lang=en2zh"
+ },
+ {
+  "word": "destroy",
+  "memoryTechnique": "",
+  "meaning": "彻底的毁灭",
+  "exampleSentence": "The earthquake destroyed the city. All his hope were destroyed.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=destroy&lang=en2zh"
+ },
+ {
+  "word": "structure",
+  "memoryTechnique": "stable structure",
+  "meaning": "结构",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=structure&lang=en2zh"
+ },
+ {
+  "word": "stable",
+  "memoryTechnique": "stable = s-table",
+  "meaning": "稳定的，安定的",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=stable&lang=en2zh"
+ },
+ {
+  "word": "instruct",
+  "memoryTechnique": "instruct sth",
+  "meaning": "v. 教导，指导",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=instruct&lang=en2zh"
+ },
+ {
+  "word": "instructive",
+  "memoryTechnique": "",
+  "meaning": "有教育意义的，启发性的",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=instructive&lang=en2zh"
+ },
+ {
+  "word": "instruction",
+  "memoryTechnique": "",
+  "meaning": "n. 说明，教导，指令",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=instruction&lang=en2zh"
+ },
+ {
+  "word": "construct",
+  "memoryTechnique": "con-struct con-...",
+  "meaning": "组成，构成，建设",
+  "exampleSentence": "The earthquake destroyed the city，which instructs us to build stable structure.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=construct&lang=en2zh"
+ },
+ {
+  "word": "----------------",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "#"
+ },
+ {
+  "word": "disappoint",
+  "memoryTechnique": "",
+  "meaning": "v. 使失望",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=disappoint&lang=en2zh"
+ },
+ {
+  "word": "disappointed",
+  "memoryTechnique": "",
+  "meaning": "adj. 失望的",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=disappointed&lang=en2zh"
+ },
+ {
+  "word": "application",
+  "memoryTechnique": "",
+  "meaning": "app",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=application&lang=en2zh"
+ },
+ {
+  "word": "apply",
+  "memoryTechnique": "apply to",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=apply&lang=en2zh"
+ },
+ {
+  "word": "appeal",
+  "memoryTechnique": "",
+  "meaning": "吸引",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=appeal&lang=en2zh"
+ },
+ {
+  "word": "attract",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "The radio business has changed greatly and now attracts more listeners.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=attract&lang=en2zh"
+ },
+ {
+  "word": "attractive",
+  "memoryTechnique": "",
+  "meaning": "adj. 吸引人的，迷人的",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=attractive&lang=en2zh"
+ },
+ {
+  "word": "appreciate",
+  "memoryTechnique": "",
+  "meaning": "v. 增值，涨价；感激，欣赏",
+  "exampleSentence": "You should appreciate what you have，before it becomes what you had.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=appreciate&lang=en2zh"
+ },
+ {
+  "word": "appropriate",
+  "memoryTechnique": "ap-propr-iate",
+  "meaning": "adj. 合适的，适当的",
+  "exampleSentence": "Girls always want to pink up appropriate dress for different occasions.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=appropriate&lang=en2zh"
+ },
+ {
+  "word": "inappropriate",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=inappropriate&lang=en2zh"
+ },
+ {
+  "word": "approximate",
+  "memoryTechnique": "ap-pro-xim-ate xim ≈ same",
+  "meaning": "adj. 近似的，大致的",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=approximate&lang=en2zh"
+ },
+ {
+  "word": "approximately",
+  "memoryTechnique": "",
+  "meaning": "adv. 近似地，大约，大概",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=approximately&lang=en2zh"
+ },
+ {
+  "word": "mild",
+  "memoryTechnique": "",
+  "meaning": "温柔的，温暖的",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=mild&lang=en2zh"
+ },
+ {
+  "word": "tender",
+  "memoryTechnique": "mild VS wild",
+  "meaning": "温柔的，脆弱的",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=tender&lang=en2zh"
+ },
+ {
+  "word": "wild",
+  "memoryTechnique": "",
+  "meaning": "adv. 野蛮的",
+  "exampleSentence": "A mild girl may become wild.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=wild&lang=en2zh"
+ },
+ {
+  "word": "----------------",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "#"
+ },
+ {
+  "word": "diary",
+  "memoryTechnique": "di-第一天...",
+  "meaning": "日记",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=diary&lang=en2zh"
+ },
+ {
+  "word": "dairy",
+  "memoryTechnique": "",
+  "meaning": "乳制品",
+  "exampleSentence": "I write diary everyday to keep track of the dairy products. (keep track of 跟踪，记录)",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=dairy&lang=en2zh"
+ },
+ {
+  "word": "dial",
+  "memoryTechnique": "",
+  "meaning": "v. 打电话",
+  "exampleSentence": "The subscriber you have dialed is power off. 您拨打的电话已关机...",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=dial&lang=en2zh"
+ },
+ {
+  "word": "----------------",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "#"
+ },
+ {
+  "word": "wander",
+  "memoryTechnique": "",
+  "meaning": "漫步，徘徊",
+  "exampleSentence": "I am wander around her house.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=wander&lang=en2zh"
+ },
+ {
+  "word": "wonder",
+  "memoryTechnique": "seven wonders",
+  "meaning": "n. 惊奇；奇迹；惊愕 v.怀疑；惊奇",
+  "exampleSentence": "I wonder who he is，where he came from and why he came.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=wonder&lang=en2zh"
+ },
+ {
+  "word": "doubt",
+  "memoryTechnique": "I doubt that = I don't think so",
+  "meaning": "",
+  "exampleSentence": "I doubt if/whether 我怀疑",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=doubt&lang=en2zh"
+ },
+ {
+  "word": "----------------",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "#"
+ },
+ {
+  "word": "suspicious",
+  "memoryTechnique": "",
+  "meaning": "怀疑的，可疑的",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=suspicious&lang=en2zh"
+ },
+ {
+  "word": "suspect",
+  "memoryTechnique": "",
+  "meaning": "v. ... n. 嫌疑人",
+  "exampleSentence": null,
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=suspect&lang=en2zh"
+ },
+ {
+  "word": "suspicion",
+  "memoryTechnique": "a spirit of suspicion",
+  "meaning": "质疑",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=suspicion&lang=en2zh"
+ },
+ {
+  "word": "familiar",
+  "memoryTechnique": "-->family",
+  "meaning": "熟悉的",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=familiar&lang=en2zh"
+ },
+ {
+  "word": "blossom BFF(best friend forever) besties lady bro",
+  "memoryTechnique": "",
+  "meaning": "闺蜜",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=blossom BFF(best friend forever) besties lady bro&lang=en2zh"
+ },
+ {
+  "word": "----------------",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "#"
+ },
+ {
+  "word": "glance",
+  "memoryTechnique": "glance at",
+  "meaning": "v. / n. 瞥，浏览",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=glance&lang=en2zh"
+ },
+ {
+  "word": "gaze",
+  "memoryTechnique": "",
+  "meaning": "凝视，",
+  "exampleSentence": null,
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=gaze&lang=en2zh"
+ },
+ {
+  "word": "stare",
+  "memoryTechnique": "stare at",
+  "meaning": "窥视",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=stare&lang=en2zh"
+ },
+ {
+  "word": "glare at",
+  "memoryTechnique": "",
+  "meaning": "怒视",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=glare at&lang=en2zh"
+ },
+ {
+  "word": "glimpse",
+  "memoryTechnique": "glimpse ≈ glance",
+  "meaning": "v. 看一眼，瞥一眼",
+  "exampleSentence": "When we feel lazy，one glimpse at ourselves in the mirror is enough.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=glimpse&lang=en2zh"
+ },
+ {
+  "word": "browse",
+  "memoryTechnique": "browse the internet",
+  "meaning": "浏览网页",
+  "exampleSentence": "I'm just browsing.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=browse&lang=en2zh"
+ },
+ {
+  "word": "----------------",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "#"
+ },
+ {
+  "word": "grand",
+  "memoryTechnique": "grandmother 是极其重要的",
+  "meaning": "adj. 宏伟的，壮丽的",
+  "exampleSentence": "You are the grandest person for me，so I want to have a view of sunshine with you.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=grand&lang=en2zh"
+ },
+ {
+  "word": "grant",
+  "memoryTechnique": "grant permission",
+  "meaning": "v. 批准，许可",
+  "exampleSentence": "They' d got a special grant to encourage research.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=grant&lang=en2zh"
+ },
+ {
+  "word": "grant",
+  "memoryTechnique": "take for granted",
+  "meaning": "认为理所当然",
+  "exampleSentence": "We always take our parents' loves for granted.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=grant&lang=en2zh"
+ },
+ {
+  "word": "grateful",
+  "memoryTechnique": "grateful ≈ great-ful",
+  "meaning": "adj. 感激的，感谢的",
+  "exampleSentence": "Instead of complaining about what's wrong，be grateful for what's right.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=grateful&lang=en2zh"
+ },
+ {
+  "word": "gratitude",
+  "memoryTechnique": "gratitude ≈ great-attitude",
+  "meaning": "n. 感谢，感恩(> thankful)",
+  "exampleSentence": "Express my gratitude for you reading this letter a sense of gratitude.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=gratitude&lang=en2zh"
+ },
+ {
+  "word": "attitude",
+  "memoryTechnique": "strike an attitude",
+  "meaning": "v. 态度，姿态",
+  "exampleSentence": "strike an arrogant attitude 哼",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=attitude&lang=en2zh"
+ },
+ {
+  "word": "altitude",
+  "memoryTechnique": "",
+  "meaning": "海拔",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=altitude&lang=en2zh"
+ },
+ {
+  "word": "----------------",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "#"
+ },
+ {
+  "word": "-sume",
+  "memoryTechnique": "-sume = take 拿走",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=-sume&lang=en2zh"
+ },
+ {
+  "word": "assume",
+  "memoryTechnique": "assume = as-sume",
+  "meaning": "v. 假定，假设",
+  "exampleSentence": "We assume men in suit are more reliable.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=assume&lang=en2zh"
+ },
+ {
+  "word": "rely",
+  "memoryTechnique": "rely on",
+  "meaning": "依赖，依靠",
+  "exampleSentence": "We rely on the sun to rise everyday.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=rely&lang=en2zh"
+ },
+ {
+  "word": "reliable",
+  "memoryTechnique": "",
+  "meaning": "adj. 可靠的，可信赖的",
+  "exampleSentence": "The most reliable way to predict the future is to create it.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=reliable&lang=en2zh"
+ },
+ {
+  "word": "assumption",
+  "memoryTechnique": "",
+  "meaning": "n. 假定，假设",
+  "exampleSentence": "The assumption that the earth is flat is wrong.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=assumption&lang=en2zh"
+ },
+ {
+  "word": "resume",
+  "memoryTechnique": "",
+  "meaning": "n. 简历",
+  "exampleSentence": "A reader who is unfamiliar with these variations may assume that your resume contains errors.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=resume&lang=en2zh"
+ },
+ {
+  "word": "resume",
+  "memoryTechnique": "",
+  "meaning": "v. 恢复，重新开始",
+  "exampleSentence": "The meeting will resume at 2:00.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=resume&lang=en2zh"
+ },
+ {
+  "word": "presume",
+  "memoryTechnique": "presume = pre-sume",
+  "meaning": "v. 以为，假定",
+  "exampleSentence": "They presume the man to be innocent.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=presume&lang=en2zh"
+ },
+ {
+  "word": "innocent",
+  "memoryTechnique": "innocent = in-no-cent",
+  "meaning": "adj. 无辜的，清白的",
+  "exampleSentence": "I presume you said is reasonable but what if he doesn't accept?",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=innocent&lang=en2zh"
+ },
+ {
+  "word": "produce",
+  "memoryTechnique": "product",
+  "meaning": "",
+  "exampleSentence": "production",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=produce&lang=en2zh"
+ },
+ {
+  "word": "productive",
+  "memoryTechnique": "",
+  "meaning": "adj. 有生产力的，多产的；有成效的",
+  "exampleSentence": "Our talk will be productive if you can keep your mind open.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=productive&lang=en2zh"
+ },
+ {
+  "word": "earn",
+  "memoryTechnique": "嗯~",
+  "meaning": "",
+  "exampleSentence": "It's hard to earn aliving.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=earn&lang=en2zh"
+ },
+ {
+  "word": "----------------",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "#"
+ },
+ {
+  "word": "consume",
+  "memoryTechnique": "comsume...on sth",
+  "meaning": "v. 消耗，消费",
+  "exampleSentence": "consume doing sth",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=consume&lang=en2zh"
+ },
+ {
+  "word": "consume",
+  "memoryTechnique": "",
+  "meaning": "v. 沉溺，浪费",
+  "exampleSentence": "The memories comsumed him.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=consume&lang=en2zh"
+ },
+ {
+  "word": "consumption",
+  "memoryTechnique": "",
+  "meaning": "n. 消费量",
+  "exampleSentence": "Ther average daily consumption of fruit is around 200 grams.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=consumption&lang=en2zh"
+ },
+ {
+  "word": "consuming",
+  "memoryTechnique": "",
+  "meaning": "adj 消费的，强烈的",
+  "exampleSentence": "My sadness is consuming.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=consuming&lang=en2zh"
+ },
+ {
+  "word": "drink up",
+  "memoryTechnique": "eat up",
+  "meaning": "",
+  "exampleSentence": "use up",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=drink up&lang=en2zh"
+ },
+ {
+  "word": "expend",
+  "memoryTechnique": "",
+  "meaning": "v. 花费，耗尽",
+  "exampleSentence": "The energy expended in the process of digestion.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=expend&lang=en2zh"
+ }
+]
