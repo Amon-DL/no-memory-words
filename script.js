@@ -72,9 +72,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // 添加上一页按钮的点击事件
   document.getElementById('prev').addEventListener('click', function () {
-    if (+currentPage > 1) {
-      +currentPage--; // 当前页数减一
-      localStorage.setItem('currentPage', currentPage)    // 将当前页数保存到本地存储中
+    if (currentPage > 1) {
+      currentPage--; // 当前页数减一
+      localStorage.setItem('currentPage', currentPage.toString())    // 将当前页数保存到本地存储中
       addNewWords(currentPage); // 添加当前页的单词
       updatePageControls(); // 更新分页控件
     }
@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', function () {
   document.getElementById('next').addEventListener('click', function () {
     if (currentPage < totalPage) {
       currentPage++; // 当前页数加一
-      localStorage.setItem('currentPage', currentPage)    // 将当前页数保存到本地存储中
+      localStorage.setItem('currentPage', currentPage.toString())    // 将当前页数保存到本地存储中
       addNewWords(currentPage); // 添加当前页的单词
       updatePageControls(); // 更新分页控件
     }
