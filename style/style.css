@@ -118,3 +118,21 @@ a:hover {
   color: cornflowerblue;
   text-decoration: underline;
 }
+
+/* 让页码部分始终在页面最下面 */
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  /* 设定主轴方向为垂直 */
+}
+
+.content {
+  flex: 1;
+  /* 让内容部分填充所有可用空间 */
+}

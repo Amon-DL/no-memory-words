@@ -1,13 +1,14 @@
 document.addEventListener('DOMContentLoaded', function () {
   // 定义数据文件的路径
   const dataUrl = './data/data.json'; // 获取选择的数据文件路径
-  const perPage = 16; // 每页显示的单词数量
   let currentPage = 1; // 当前页数
   let totalPage; // 总页数
   const wordsElement = document.querySelector('.word-list'); // 包含单词的元素
 
   const xhr = new XMLHttpRequest(); // 创建XMLHttpRequest对象
   let data; // 存储从数据文件中获取的数据
+  // 分组后的数据
+  let groupedData = [];
 
   xhr.onreadystatechange = function () {
     // 当数据请求状态改变时执行的函数
@@ -15,10 +16,14 @@ document.addEventListener('DOMContentLoaded', function () {
       if (xhr.status === 200) {
         // 如果状态为成功
         data = JSON.parse(xhr.responseText); // 解析数据
-        totalPage = Math.ceil(data.length / perPage); // 计算总页数
+        groupedData = paginate(data);
+        totalPage = groupedData.length  // 计算总页数
+        currentPage = +localStorage.getItem('currentPage') || currentPage    // 从本地存储中获取当前页数
         addNewWords(currentPage); // 添加当前页的单词
         updatePageControls(); // 更新分页控件
-        console.log(data); // 打印数据到控制台
+        // console.log(data); // 打印数据到控制台
+
+        // console.log(paginate(data))
       } else {
         console.error(xhr.statusText); // 打印错误信息到控制台
       }
@@ -31,9 +36,7 @@ document.addEventListener('DOMContentLoaded', function () {
   function addNewWords(page) {
     // 添加新单词到指定页的函数
     wordsElement.innerHTML = ''; // 清空单词的显示区域
-    const start = (page - 1) * perPage; // 计算起始索引
-    const end = start + perPage; // 计算结束索引
-    const currentPageData = data.slice(start, end); // 获取当前页的数据
+    const currentPageData = groupedData[page - 1]; // 获取当前页的数据
 
     currentPageData.forEach(item => {
       // 遍历当前页的数据并创建单词元素
@@ -69,8 +72,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // 添加上一页按钮的点击事件
   document.getElementById('prev').addEventListener('click', function () {
-    if (currentPage > 1) {
-      currentPage--; // 当前页数减一
+    if (+currentPage > 1) {
+      +currentPage--; // 当前页数减一
+      localStorage.setItem('currentPage', currentPage)    // 将当前页数保存到本地存储中
       addNewWords(currentPage); // 添加当前页的单词
       updatePageControls(); // 更新分页控件
     }
@@ -80,6 +84,7 @@ document.addEventListener('DOMContentLoaded', function () {
   document.getElementById('next').addEventListener('click', function () {
     if (currentPage < totalPage) {
       currentPage++; // 当前页数加一
+      localStorage.setItem('currentPage', currentPage)    // 将当前页数保存到本地存储中
       addNewWords(currentPage); // 添加当前页的单词
       updatePageControls(); // 更新分页控件
     }
@@ -96,3 +101,23 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   });
 });
+
+function paginate(arr) {
+  const result = [];
+  let page = [];
+
+  // 使用 forEach 遍历数组
+  arr.forEach((item, index) => {
+    // 将当前元素添加到当前页面中
+    if (!item.nextPage) page.push(item);
+
+    // 如果当前元素的 nextPage 为 true 或者已到数组末尾
+    if (item.nextPage || index === arr.length - 1) {
+      // 将当前页面添加到结果中，并重置 page 为新的空数组
+      result.push(page);
+      page = [];
+    }
+  });
+
+  return result;
+}
