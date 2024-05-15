@@ -16,3 +16,8 @@
 #pagination-container input {
   outline: none;
 }
+/*美化单词列表组件*/
+.word-list .words {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+/*# sourceMappingURL=optimalLayout.css.map */

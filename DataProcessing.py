@@ -36,7 +36,7 @@ def transformData(csvFile, jsonFile):
     dataList = getWordUrl(dataLs=dataList)
     print(dataList[:18])
   
-  with open(jsonFile, 'w') as outfile:
+  with open(jsonFile, 'w', encoding='utf-8') as outfile:
     json.dump(dataList, outfile, ensure_ascii=False, indent=1)
 
 dataPath = './data' 

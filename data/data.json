@@ -1004,7 +1004,7 @@
  },
  {
   "word": "consume",
-  "memoryTechnique": "comsume...on sth",
+  "memoryTechnique": "consume...on sth",
   "meaning": "v. 消耗，消费",
   "exampleSentence": "consume doing sth",
   "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=consume&lang=en2zh",
@@ -1014,7 +1014,7 @@
   "word": "consume",
   "memoryTechnique": "",
   "meaning": "v. 沉溺，浪费",
-  "exampleSentence": "The memories comsumed him.",
+  "exampleSentence": "The memories consumed him.",
   "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=consume&lang=en2zh",
   "nextPage": false
  },
@@ -1022,7 +1022,7 @@
   "word": "consumption",
   "memoryTechnique": "",
   "meaning": "n. 消费量",
-  "exampleSentence": "Ther average daily consumption of fruit is around 200 grams.",
+  "exampleSentence": "Their average daily consumption of fruit is around 200 grams.",
   "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=consumption&lang=en2zh",
   "nextPage": false
  },
@@ -1049,5 +1049,437 @@
   "exampleSentence": "The energy expended in the process of digestion.",
   "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=expend&lang=en2zh",
   "nextPage": false
+ },
+ {
+  "word": "expense",
+  "memoryTechnique": "",
+  "meaning": "n. 费用，开支",
+  "exampleSentence": "People do it at the expense of everything that was a constant in their lives.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=expense&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "at the expense of",
+  "memoryTechnique": "",
+  "meaning": "以...为代价",
+  "exampleSentence": "人们这样做的代价是牺牲他们生活中一直存在的一切。",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=at the expense of&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "expenditure",
+  "memoryTechnique": "",
+  "meaning": "n. 支出，花费",
+  "exampleSentence": "The expenditure of energy in the process of digestion.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=expenditure&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "exhaust",
+  "memoryTechnique": "",
+  "meaning": "n. (排出的）废气；排出装置",
+  "exampleSentence": "The exhaust of a car.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=exhaust&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "exhaust",
+  "memoryTechnique": "",
+  "meaning": "v. 耗尽，用尽，使精疲力尽",
+  "exampleSentence": "The long walk exhausted him.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=exhaust&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "spend",
+  "memoryTechnique": "spend time/money on sth",
+  "meaning": "",
+  "exampleSentence": "spend time/money doing sth",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=spend&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "waste",
+  "memoryTechnique": "",
+  "meaning": "v. 浪费，挥霍",
+  "exampleSentence": "Don't waste your time on him.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=waste&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "---",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "#",
+  "nextPage": true
+ },
+ {
+  "word": "social",
+  "memoryTechnique": "瘦瘦的",
+  "meaning": "",
+  "exampleSentence": "He is a social person.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=social&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "social",
+  "memoryTechnique": "",
+  "meaning": "adj. 社交的；合群的，n. 社交活动，联谊会",
+  "exampleSentence": "We should organize more social activities.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=social&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "society",
+  "memoryTechnique": "",
+  "meaning": "n. 社会，社团，协会",
+  "exampleSentence": "The society of the future will be a knowledge society.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=society&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "sociable",
+  "memoryTechnique": "sociable ≈ friendly",
+  "meaning": "adj. 友善的，好交际的",
+  "exampleSentence": "She is a sociable person.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=sociable&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "associate",
+  "memoryTechnique": "associate = as-sociate",
+  "meaning": "v. 联合，结合",
+  "exampleSentence": "More sleep in old age，however，is associate with better health，and most older people would feel better and feel alert if they slept for longer periods，he said.（associate with 与...有关）",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=associate&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "",
+  "memoryTechnique": "",
+  "meaning": "然而，老年人睡眠时间越长，健康状况越好。他说，大多数老年人如果睡眠时间长，会感觉更好、更警觉。",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "consociate",
+  "memoryTechnique": "con-sociate",
+  "meaning": "v. 结交，结合，联合",
+  "exampleSentence": "The two countries consociated to fight against the enemy.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=consociate&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "dissociate",
+  "memoryTechnique": "dis-sociate",
+  "meaning": "v. 分离，分裂",
+  "exampleSentence": "Girls need to learn how to dissociate emotion from reason.(dissociate emotion from reason 情感与理智分离)",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=dissociate&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "---",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "#",
+  "nextPage": true
+ },
+ {
+  "word": "community",
+  "memoryTechnique": "",
+  "meaning": "n. 交流，社区",
+  "exampleSentence": "The community is a place where people can communicate with each other.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=community&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "communication",
+  "memoryTechnique": "",
+  "meaning": "n. 交流，沟通",
+  "exampleSentence": "Communication is the key to success.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=communication&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "communicate",
+  "memoryTechnique": "communicate with sb",
+  "meaning": "v. 交流，沟通",
+  "exampleSentence": "Community have communicate with each other through role-play.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=communicate&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "Indeed，according to surveys，employers have expressed a preference for students who receive a broad-based education that has taught them to write well，think critically，research creatively，and communicate easily.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "",
+  "memoryTechnique": "",
+  "meaning": "事实上，根据调查，雇主更喜欢接受过广泛教育的学生，这种教育使他们学会了写作，批判性思维，创造性研究和轻松交流。",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "preference",
+  "memoryTechnique": "",
+  "meaning": "n. 偏爱，优先",
+  "exampleSentence": "Employers have expressed a preference for students who receive a broad-based education.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=preference&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "broadly-base",
+  "memoryTechnique": "",
+  "meaning": "adj. 广泛基础的",
+  "exampleSentence": "Employers have expressed a preference for students who receive a broadly-based education.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=broadly-base&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "indeed",
+  "memoryTechnique": "",
+  "meaning": "adv. 确实，的确",
+  "exampleSentence": "Indeed，according to surveys，employers have expressed a preference for students who receive a broad-based education.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=indeed&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "sociology",
+  "memoryTechnique": "astrology(占星术)",
+  "meaning": "",
+  "exampleSentence": "astronomy(天文学)",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=sociology&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "Biology",
+  "memoryTechnique": "Meth emetics",
+  "meaning": "",
+  "exampleSentence": "Accounting(会计学)",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=Biology&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "required course/ compulsory course",
+  "memoryTechnique": "",
+  "meaning": "必修课",
+  "exampleSentence": "The required course is a course that must be taken.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=required course/ compulsory course&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "optional course",
+  "memoryTechnique": "",
+  "meaning": "选修课",
+  "exampleSentence": "The optional course is a course that can be taken.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=optional course&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "---",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "#",
+  "nextPage": true
+ },
+ {
+  "word": "tend",
+  "memoryTechnique": "tend to do sth",
+  "meaning": "v. 倾向于，易于",
+  "exampleSentence": "Romantic love tend to yield where family or social pressures are strong.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=tend&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "yield",
+  "memoryTechnique": "",
+  "meaning": "v. 屈服，让步",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=yield&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "tend",
+  "memoryTechnique": "",
+  "meaning": "v. 照料，照管",
+  "exampleSentence": "For years he tends her as a volunteer.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=tend&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "tender",
+  "memoryTechnique": "",
+  "meaning": "adj. 温柔的，柔软的",
+  "exampleSentence": "The tender touch of a mother.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=tender&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "tendency",
+  "memoryTechnique": "",
+  "meaning": "n. 倾向，趋势",
+  "exampleSentence": "There is a growing tendency for people to work at home instead of in the offices.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=tendency&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "trend",
+  "memoryTechnique": "",
+  "meaning": "n. 强调发展，变化的趋势",
+  "exampleSentence": "The prices of houses are trending upwards.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=trend&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "-trend = stretch(拉紧)",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=-trend = stretch(拉紧)&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "attend",
+  "memoryTechnique": "出席我的人生，照顾我，献身于我",
+  "meaning": "v. 出席；照顾；献身于",
+  "exampleSentence": "The main thing is to attend to the injured.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=attend&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "attention",
+  "memoryTechnique": "pay attention to sth",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=attention&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "extend",
+  "memoryTechnique": "extend = ex-tend",
+  "meaning": "v. 延伸，扩大",
+  "exampleSentence": "We are trying to extend its life span.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=extend&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "extend",
+  "memoryTechnique": "",
+  "meaning": "v. 给予，提供",
+  "exampleSentence": "We extend our deepest sympathy to you.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=extend&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "extensive",
+  "memoryTechnique": "",
+  "meaning": "adj. 广泛的，大量的",
+  "exampleSentence": "China has great extended its influence in world affairs.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=extensive&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "extension",
+  "memoryTechnique": "",
+  "meaning": "n. 延长，扩展",
+  "exampleSentence": "The extension of the deadline.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=extension&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "intend",
+  "memoryTechnique": "intend = in-tend",
+  "meaning": "v. 意图，计划，打算",
+  "exampleSentence": "in————",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=intend&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "intend",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "I don't intend it to be.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=intend&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "",
+  "memoryTechnique": "",
+  "meaning": "这并非我本意。",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "Where did Lewis intend to park his car where came back from work one night?",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "",
+  "memoryTechnique": "",
+  "meaning": "Lewis打算晚上下班回来时把车停在哪里？",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "intention",
+  "memoryTechnique": "",
+  "meaning": "n. 意图，志向",
+  "exampleSentence": "It is committed with good intentions.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=intention&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "",
+  "memoryTechnique": "",
+  "meaning": "这是出于好意的。 committed with good intentions 出于好意",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "tension",
+  "memoryTechnique": "",
+  "meaning": "n. 紧张；张力T",
+  "exampleSentence": "Well，I had a lot of tension while you have been studying hard on your course in D.C.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=tension&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "",
+  "memoryTechnique": "",
+  "meaning": "嗯，你在华盛顿学习课程的时候，我压力很大。",
+  "exampleSentence": "",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "pretend",
+  "memoryTechnique": "pretend to do sth",
+  "meaning": "v. 假装，伪装",
+  "exampleSentence": "It pretend that things are really okay when they are not.",
+  "url": "https://fanyi.baidu.com/mtpe-individual/multimodal?query=pretend&lang=en2zh",
+  "nextPage": false
+ },
+ {
+  "word": "---",
+  "memoryTechnique": "",
+  "meaning": "",
+  "exampleSentence": "",
+  "url": "#",
+  "nextPage": true
  }
 ]
